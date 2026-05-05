@@ -1,0 +1,22 @@
+Ex4_Icon ICON "myicon.ico"
+
+Ex4_Menu MENU
+{
+ POPUP "&Файл"
+ {
+ 	  MENUITEM "Открыть", 0
+ 	  MENUITEM "Сохранить", 1
+ 	  MENUITEM SEPARATOR
+ 	  MENUITEM "Выход", 2
+ }
+  MENUITEM "&Копировать", 5
+  MENUITEM "&Расчитать", 3
+  MENUITEM "&HP+MP", 4
+  MENUITEM "&Доты", 7
+  MENUITEM "&Неизвестные доты", 8
+  MENUITEM "&Опыт", 9
+  MENUITEM "&Очистить лог", 6
+
+
+
+}
